@@ -1,0 +1,2 @@
+# FoolishBot
+Foolish Discord bot
